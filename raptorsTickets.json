@@ -1,0 +1,10 @@
+{
+    "headline": "Toronto Raptors tickets",
+    "version": "1.0.0",
+    "count": 3,
+    "data":[
+        {"ticketType": "Balcony Level", "ticketCount": 100, "ticketPrice": 1170},
+        {"ticketType": "Lower Level", "ticketCount": 50, "ticketPrice": 10434},
+        {"ticketType": "Courtside", "ticketCount": 5, "ticketPrice": 27777}
+    ]
+}
